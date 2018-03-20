@@ -1,12 +1,13 @@
 html {
-  background : gray
+  background : gray;
   
 }
 
 body{
-  background : white
-  padding : 2em 2em 4em
-  border-radius : 10px
+  background : white;
+  padding : 2em 2em 4em;
+  border-radius : 10px;
+  font-family : "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 }
 
