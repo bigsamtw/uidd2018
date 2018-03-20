@@ -16,7 +16,7 @@ body{
 #Header{
   font-size: 12px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  display : inline-block;
+  display : inline;
 }
 
 #Body{
