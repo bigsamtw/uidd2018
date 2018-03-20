@@ -1,32 +1,161 @@
+
 html {
-  background : #e6e9e9;
-  
-}
+    background : #e6e9e9;
+  }
 
-body{
-  background : white;
-  padding : 2em 2em 4em;
-  border-radius : 10px;
-  margin : 100px 200px 200px 200px;
-  font-family : "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 12px;
+  body{
+      background : white;
+        padding : 4em 10em 1em;
+          border-radius : 10px;
+            min-height: 650px;
+              margin : 60px 250px 60px 250px;
+                font-family : "Helvetica Neue", Helvetica, Arial, sans-serif;
+                  font-size: 12px;
+                }
 
-}
+                a{
+                      color: gray
+                    }
 
-#Header{
-  font-size: 12px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  display : inline;
-}
+                    #Header{
+                          font-size: 12px;
+                              font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+                            }
 
-#Body{
+                            #LOGO{
+                                  position: relative;
+                                      color: black;
+                                          right : -5px;
+                                              top: -5px;
+                                                  font-size: 35px;
+                                                }
 
-}
+                                                #Header-1{
+                                                      position: relative;
+                                                          font-size: 8px;
+                                                              right: -170px;
+                                                                  top: -5px;
+                                                                      text-decoration:none;
+                                                                    }
 
-#Footer{
+                                                                    #Header-2{
+                                                                          position: relative;
+                                                                              font-size: 8px;
+                                                                                  right : -210px;
+                                                                                      top: -5px;
+                                                                                          text-decoration:none;
+                                                                                        }
 
-}
+                                                                                        #Header-3{
+                                                                                              position: relative;
+                                                                                                  font-size: 8px;
+                                                                                                      right: -255px;
+                                                                                                          top: -5px;
+                                                                                                              text-decoration:none;
+                                                                                                            }
+
+                                                                                                            #Header-4{
+                                                                                                                  position: relative;
+                                                                                                                      font-size: 8px;
+                                                                                                                          right: -300px;
+                                                                                                                              top: -5px;
+                                                                                                                                  text-decoration:none;
+                                                                                                                                }
+
+                                                                                                                                #Header-5{
+                                                                                                                                      position: relative;
+                                                                                                                                          font-size: 8px;
+                                                                                                                                              right: -350px;
+                                                                                                                                                  top: -5px;
+                                                                                                                                                      text-decoration:none;
+                                                                                                                                                    }
+                                                                                                                                                    #Header-6{
+                                                                                                                                                          position: relative;
+                                                                                                                                                              font-size: 8px;
+                                                                                                                                                                  right: -400px;
+                                                                                                                                                                      top: -5px;
+                                                                                                                                                                          text-decoration:none;
+                                                                                                                                                                        }
+                                                                                                                                                                        #Header-7{
+                                                                                                                                                                              position: relative;
+                                                                                                                                                                                  font-size: 8px;
+                                                                                                                                                                                      right: -450px;
+                                                                                                                                                                                          top: -5px;
+                                                                                                                                                                                              text-decoration:none;
+                                                                                                                                                                                            }
+
+                                                                                                                                                                                            #Login{
+                                                                                                                                                                                                  position: relative;
+                                                                                                                                                                                                      font-size: 14px;
+                                                                                                                                                                                                          right: -630px;
+                                                                                                                                                                                                              top: -5px;
+                                                                                                                                                                                                                  color: black;
+                                                                                                                                                                                                                      text-decoration:none;
+                                                                                                                                                                                                                    }
+
+                                                                                                                                                                                                                    #Singup{
+                                                                                                                                                                                                                          position: relative;
+                                                                                                                                                                                                                              font-size: 14px;
+                                                                                                                                                                                                                                  right: -650px;
+                                                                                                                                                                                                                                      top: -5px;
+                                                                                                                                                                                                                                          color: palevioletred;
+                                                                                                                                                                                                                                              text-decoration:none;
+                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                            }
+
+                                                                                                                                                                                                                                            #Body{
+
+                                                                                                                                                                                                                                            }
+
+                                                                                                                                                                                                                                            #Body-1{
+                                                                                                                                                                                                                                                  position: relative;
+                                                                                                                                                                                                                                                      font-size: 50px;
+                                                                                                                                                                                                                                                          top :100px;
+                                                                                                                                                                                                                                                              line-height: 0.8;
+                                                                                                                                                                                                                                                            }
+
+                                                                                                                                                                                                                                                            #Body-2{
+                                                                                                                                                                                                                                                                  position: relative;
+                                                                                                                                                                                                                                                                      font-size: 50px;
+                                                                                                                                                                                                                                                                          top:100px;
+                                                                                                                                                                                                                                                                              line-height: 0.8;
+                                                                                                                                                                                                                                                                            }
+
+                                                                                                                                                                                                                                                                            #Body-3{
+                                                                                                                                                                                                                                                                                  position: relative;
+                                                                                                                                                                                                                                                                                      font-size: 50px;
+                                                                                                                                                                                                                                                                                          top: 100px;
+                                                                                                                                                                                                                                                                                              line-height: 0.8;
+                                                                                                                                                                                                                                                                                            }
+
+                                                                                                                                                                                                                                                                                            #Button{
+                                                                                                                                                                                                                                                                                                  position: relative;
+                                                                                                                                                                                                                                                                                                      font-size: 30px;
+                                                                                                                                                                                                                                                                                                          top: -230px;
+                                                                                                                                                                                                                                                                                                              right: -100px;
+                                                                                                                                                                                                                                                                                                                  color: white;
+                                                                                                                                                                                                                                                                                                                      background:springgreen;
+                                                                                                                                                                                                                                                                                                                          padding: 10px;
+                                                                                                                                                                                                                                                                                                                              border-radius: 5px;
+                                                                                                                                                                                                                                                                                                                                  text-decoration:none;
+                                                                                                                                                                                                                                                                                                                                }
+
+                                                                                                                                                                                                                                                                                                                                #Buttom:Hover{
+                                                                                                                                                                                                                                                                                                                                      background: springgreen;
+                                                                                                                                                                                                                                                                                                                                    }
+
+                                                                                                                                                                                                                                                                                                                                    #Img1{
+                                                                                                                                                                                                                                                                                                                                          position: relative;
+                                                                                                                                                                                                                                                                                                                                              right: -300px;
+                                                                                                                                                                                                                                                                                                                                            }
+
+
+                                                                                                                                                                                                                                                                                                                                            #Footer{
+
+                                                                                                                                                                                                                                                                                                                                            }
 
 
 
 
+
+                                                                                                                                                                                                                                                                                                                                          
