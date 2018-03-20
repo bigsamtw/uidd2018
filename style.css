@@ -13,10 +13,10 @@ body{
 
 }
 
-#Header li{
+#Header{
   font-size: 12px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  float : left;
+  display : inline;
 }
 
 #Body{
