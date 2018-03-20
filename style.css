@@ -12,8 +12,8 @@ body{
 
 }
 
-#Header{
-  
+#Header li{
+  display : inline;
 }
 
 #Body{
