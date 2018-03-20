@@ -1,10 +1,12 @@
-html{
-  body{
-    background-color:gray;
-    display:block;
-    margin :8px;
-  }
-
+html {
+  background : gray
   
 }
+
+body{
+  background : white
+  border-radius : 10px
+
+}
+
 
